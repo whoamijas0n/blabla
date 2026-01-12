@@ -24,7 +24,7 @@ case $opcion in
 
 	"1")
         echo ""
-+        read -p $'\e[32m[-] Ingresa el nombre de el archivo CPP:\e[0m ' cpp
+       read -p $'\e[32m[-] Ingresa el nombre de el archivo CPP:\e[0m ' cpp
         clear
 		;;
 
